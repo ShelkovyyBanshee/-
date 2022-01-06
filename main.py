@@ -1,2 +1,4 @@
 class Miha:
-    pass
+    def laugh(self, amount):
+        print("их" * amount + "и")
+
